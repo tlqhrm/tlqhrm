@@ -1,16 +1,16 @@
 <h3 align="center">👋 Hi, I'm 159 </h3>
 <p align="center">
-  <b>Backend Developer</b> 👩‍💻 <br>
+  <b>Interested in Node.js And Devops</b> 😊 <br>
   <b>I'm growing everyday</b> 🌱
 </p>
 
 <h3 align="center"> 🔧 Stack 🔧 </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Nest.js-d5214a?style=flat-square&logo=NestJs&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <br>
 <img src="https://img.shields.io/badge/HTML-d84924?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-30a1d1?style=flat-square&logo=Css3&logoColor=white"/></a>&nbsp
