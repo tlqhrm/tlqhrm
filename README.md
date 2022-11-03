@@ -3,7 +3,7 @@
   <b>Backend Developer</b> 👩‍💻 <br>
   <b>I'm growing everyday</b> 🌱
 </p>
-<br>
+
 <h3 align="center"> 🔧 Stack 🔧 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -26,14 +26,14 @@
 <img src="https://img.shields.io/badge/Nginx-0c8f49?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp
 
 </p>
-<br>
+
 <h3 align="center">🔭  Follow Me 🔭 </h3>
 <p align="center">
   <a href="https://tlqhrm.github.io"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Storyblok&logoColor=white&link=https://tlqhrm.github.io"/></a>&nbsp
   <a href="mailto:wjstls123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-<br>
-<h3 align="center">🌠 Project 🌠</h3>
+
+<h3 align="center">🌠 Project 👩‍💻</h3>
 <div align="center">
  <b>TapPlace [ Team ]</b> - BackEnd
  <br>
