@@ -40,7 +40,7 @@
  <i>2022.07 ~ Now</i><br>
 <a href="https://github.com/tlqhrm/TapPlace-sample"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/tlqhrm/TapPlace-sample"/></a>    <br>
 <a href="https://dev159.notion.site/Tapplace-API-v1-2-1-59bc730670154642983ed37b12443f97"><img src="https://img.shields.io/badge/API Document-000000?style=flat-square&logo=Notion&logoColor=white&link=https://dev159.notion.site/Tapplace-API-v1-2-1-59bc730670154642983ed37b12443f97"/></a>    <br>
-<a href="https://dev159.notion.site/Tapplace-API-v1-2-1-59bc730670154642983ed37b12443f97"><img src="https://img.shields.io/badge/Web Site-000000?style=flat-square&logo=Google Chrome&logoColor=white&link=https://dev159.notion.site/Tapplace-API-v1-2-1-59bc730670154642983ed37b12443f97"/></a>    <br><br>
+<a href="https://www.tapplace.co.kr"><img src="https://img.shields.io/badge/Web Site-000000?style=flat-square&logo=Google Chrome&logoColor=white&link=https://tapplace.co.kr"/></a>    <br><br>
 
 <b>YameGame [ Toy ]</b> - Full Stack
 <br>
