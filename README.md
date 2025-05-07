@@ -24,19 +24,3 @@
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
----
-
-### 🔧 요즘 하고 있는 일
-
-- 개인 프로젝트에 **Kubernetes**, **Kafka**를 직접 적용하며 운영 구성 실습 중  
-- **Kubernetes 기반 CI/CD 파이프라인**을 GitHub Actions로 구성해 운영 중입니다  
-
----
-
-### 🎯 앞으로의 목표
-
-- 작지만 의미 있는 오픈소스를 만들어보기  
-- **GitHub ⭐ 1,000개** 달성  
-
----
