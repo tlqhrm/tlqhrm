@@ -26,10 +26,10 @@
 
 <h2>🏅 Certifications</h2>
 <p align="left">
-  <a href="https://www.credly.com/badges/your-saa-badge-id">
+  <a href="https://www.credly.com/badges/dc7c1f28-3784-4466-b402-c957ee7c0da5/public_url">
     <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA" width="120"/>
   </a>
-  <a href="https://www.credly.com/badges/your-cka-badge-id">
+  <a href="https://www.credly.com/badges/8863e81e-0671-436f-af48-b98d64fa93d7/public_url">
     <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="120"/>
   </a>
 </p>
