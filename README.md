@@ -26,5 +26,5 @@
 
 #### 🏅 Certifications
 
-[![AWS SAA](https://images.credly.com/size/110x110/images/0fc83f36-907a-4a9c-85f3-1375d3cfc2a5/image.png)](https://www.credly.com/badges/0fc83f36-907a-4a9c-85f3-1375d3cfc2a5/public_url)
-[![CKA](https://images.credly.com/size/110x110/images/614f4690-e40a-4f72-8cdd-aa1b4b629120/cka.png)](https://www.credly.com/badges/614f4690-e40a-4f72-8cdd-aa1b4b629120/public_url)
+[![AWS SAA]([https://images.credly.com/size/110x110/images/0fc83f36-907a-4a9c-85f3-1375d3cfc2a5/image.png](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png))](https://www.credly.com/badges/0fc83f36-907a-4a9c-85f3-1375d3cfc2a5/public_url)
+[![CKA]([https://images.credly.com/size/110x110/images/614f4690-e40a-4f72-8cdd-aa1b4b629120/cka.png](https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png))](https://www.credly.com/badges/614f4690-e40a-4f72-8cdd-aa1b4b629120/public_url)
