@@ -34,4 +34,6 @@
   </a>
 </p>
 
-![Weekly Commit Challenge](https://weekly-commit-card.wjstls123.workers.dev/?username=tlqhrm)
+<a href="https://weekly-commit-challenge.wjstls123.workers.dev/">
+  <img src="https://weekly-commit-card.wjstls123.workers.dev/?username=tlqhrm" alt="Weekly Commit Challenge" />
+</a>
