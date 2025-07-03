@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-#### ⚙DevOps
+#### DevOps
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-
+<h2>Challenge</h2>
 <a href="https://tlqhrm.github.io/weekly-commit-challenge/">
   <img src="https://weekly-commit-card.wjstls123.workers.dev/?username=tlqhrm" alt="Weekly Commit Challenge" />
 </a>
